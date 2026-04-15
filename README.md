@@ -1,1 +1,1 @@
-# Triangle-Star-Pattern
+By using this code we can print right star triangle pattern.
